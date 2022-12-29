@@ -1,2 +1,2 @@
 # PythonThings
-I made Some Python things here.
+I made Some Python projects here.
